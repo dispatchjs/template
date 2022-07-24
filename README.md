@@ -7,6 +7,6 @@
 **A TypeScript template project.**
 
 [![GitHub](https://img.shields.io/github/license/dispatchjs/template)](https://github.com/dispatchjs/template/blob/main/LICENSE)
-[![Discord](https://discordapp.com/api/guilds/499932831879921675/embed.png)](https://discord.gg/YtVEPYQFNv)
+[![Discord](https://discord.com/api/guilds/499932831879921675/embed.png)](https://discord.gg/YtVEPYQFNv)
 
 </div>
