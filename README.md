@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://i.kagchi.my.id/nezuko.png" alt="Logo" width="200px" height="200px" style="border-radius:50%"/>
+<img src="https://cdn.discordapp.com/icons/499932831879921675/6b046d1b0360c1cc1307b0928db729f4.jpg" alt="Logo" width="200px" height="200px" style="border-radius:50%"/>
 
-# @nezuchan/template
+# @dispatchjs/template
 
 **A TypeScript template project.**
 
-[![GitHub](https://img.shields.io/github/license/nezuchan/cordis-brokers)](https://github.com/nezuchan/cordis-brokers/blob/main/LICENSE)
-[![Discord](https://discordapp.com/api/guilds/785715968608567297/embed.png)](https://nezu.my.id)
+[![GitHub](https://img.shields.io/github/license/dispatchjs/template)](https://github.com/dispatchjs/template/blob/main/LICENSE)
+[![Discord](https://discordapp.com/api/guilds/499932831879921675/embed.png)](https://discord.gg/YtVEPYQFNv)
 
 </div>
